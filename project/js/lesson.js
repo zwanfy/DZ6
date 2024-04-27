@@ -1,20 +1,18 @@
-// PHONE BLOCK
+// PHONE CHECKER
+const phoneInput = document.querySelector('#phone_input')
+const phoneButton = document.querySelector('#phone_button')
+const phoneResult = document.querySelector('#phone_result')
 
- const phoneInput = document.querySelector('#phone_input')
- const phoneButton = document.querySelector('#phone_button')
- const phoneSpan = document.querySelector('#phone_result')
-
- const regExp =/^\+996 [2579]\d{2} \d{2}-\d{2}-\d{2}$/
-
- phoneButton.onclick = () => {
-  if (regExp.test(phoneInput.value)) {
-         phoneSpan.innerHTML = 'OK'
-         phoneSpan.style.color = 'green'
-  } else {
-        phoneSpan.innerHTML = '!NOT OK'
-         phoneSpan.style.color = 'red'
-     }
- }
+const regExp = /^\+996 [2579]\d{2} \d{2}-\d{2}-\d{2}$/
+phoneButton.addEventListener('click', () => {
+    if (regExp.test(phoneInput.value)) {
+        phoneResult.innerHTML = 'OK'
+        phoneResult.style.color = 'green'
+    } else {
+        phoneResult.innerHTML = 'NOT OK'
+        phoneResult.style.color = 'red'
+    }
+})
 
 // TAB SLIDER
 
@@ -147,3 +145,24 @@ const get = async () => {
         console.error(e)
     }
 }
+
+// //WEATHER
+
+
+const city = document.querySelector('.city')
+const temp = document.querySelector('.temp')
+const cityInput = document.querySelector('.cityName')
+
+const BASE_URL = 'http://api.openweathermap.org'
+const API_KEY = 'e417df62e04d3b1b111abeab19cea714'
+const citySearch = () => {
+    cityInput.oninput= (event) => {
+        fetch(`${BASE_URL}/data/2.5/weather?q=${event.target.value}&appid=${API_KEY}`)
+            .then(response => response.json())
+            .then(data => {
+                city.innerHTML = data.name || 'Город не найден'
+                temp.innerHTML = data.main?.temp ? Math.round(data.main?.temp - 273) + '&deg;C' : '...'
+            })
+    }
+}
+citySearch()
