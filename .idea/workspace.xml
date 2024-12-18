@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="DZ6_Arina" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zwanfy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zwanfy/DZ6.git",
+    "accountId": "928dc22e-a64b-4359-8d2d-8a9c67413f6a"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hSRbQpuOhFHhKRQw3FV3owSn1v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zwanfy/Downloads/project 4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
+        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="733efc4d-a2ed-4b03-b37a-512a081ff1bd" name="Changes" comment="" />
+      <created>1717585562820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717585562820</updated>
+      <workItem from="1717585563858" duration="7675000" />
+      <workItem from="1717844267136" duration="6400000" />
+      <workItem from="1718189616607" duration="7962000" />
+      <workItem from="1718448969104" duration="4890000" />
+      <workItem from="1718792889085" duration="7385000" />
+      <workItem from="1718972496093" duration="16000" />
+      <workItem from="1719053841900" duration="4716000" />
+      <workItem from="1719398902639" duration="14276000" />
+      <workItem from="1720002873707" duration="6213000" />
+      <workItem from="1725270233401" duration="384000" />
+      <workItem from="1725270931019" duration="6244000" />
+      <workItem from="1725533420525" duration="5805000" />
+      <workItem from="1725878032822" duration="7128000" />
+      <workItem from="1725894617740" duration="14000" />
+      <workItem from="1726138382523" duration="4016000" />
+      <workItem from="1726486311559" duration="7746000" />
+      <workItem from="1726743717746" duration="5348000" />
+      <workItem from="1727089291111" duration="5523000" />
+      <workItem from="1727096808250" duration="5949000" />
+      <workItem from="1727693399719" duration="3249000" />
+      <workItem from="1727701186857" duration="3104000" />
+      <workItem from="1727959463953" duration="2992000" />
+      <workItem from="1728114367935" duration="55000" />
+      <workItem from="1728471202355" duration="8212000" />
+      <workItem from="1728737430876" duration="3407000" />
+      <workItem from="1729083724526" duration="4338000" />
+      <workItem from="1729257968367" duration="11000" />
+      <workItem from="1729342902519" duration="1716000" />
+      <workItem from="1729688814876" duration="7767000" />
+      <workItem from="1730371983459" duration="3109000" />
+      <workItem from="1730717805912" duration="2035000" />
+      <workItem from="1730976233517" duration="5024000" />
+      <workItem from="1731322847616" duration="1835000" />
+      <workItem from="1731582049029" duration="3693000" />
+      <workItem from="1731927752154" duration="2681000" />
+      <workItem from="1732187133544" duration="6145000" />
+      <workItem from="1732532000476" duration="622000" />
+      <workItem from="1733135781586" duration="1605000" />
+      <workItem from="1733141504616" duration="1826000" />
+      <workItem from="1733387636508" duration="184000" />
+      <workItem from="1733396013541" duration="347000" />
+      <workItem from="1733396593108" duration="724000" />
+      <workItem from="1733498826018" duration="386000" />
+      <workItem from="1733552681802" duration="5000" />
+      <workItem from="1733565000431" duration="606000" />
+      <workItem from="1733580759464" duration="36000" />
+      <workItem from="1734001276692" duration="1023000" />
+      <workItem from="1734332900503" duration="1844000" />
+      <workItem from="1734345303363" duration="2230000" />
+      <workItem from="1734351246261" duration="1438000" />
+      <workItem from="1734514376691" duration="525000" />
+      <workItem from="1734522051721" duration="1018000" />
+      <workItem from="1734523380740" duration="436000" />
+      <workItem from="1734693407394" duration="987000" />
+    </task>
+    <task id="LOCAL-00001" summary="DZ5">
+      <option name="closed" value="true" />
+      <created>1734523576737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734523576737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="DZ6_Arina">
+      <option name="closed" value="true" />
+      <created>1734702628863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734702628863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DZ5" />
+    <MESSAGE value="DZ6_Arina" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ6_Arina" />
+  </component>
+</project>
